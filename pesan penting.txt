@@ -1,0 +1,6 @@
+sebelum install dlib pip install dlib-19.24.1-cp311-cp311-win_amd64.whl (hanya bisa di python versi 3.11)
+sesudah nya install face_recognition module // pip install -r penting.txt
+
+cek versi python : python --version
+kalau dibawah < 3.11 download installer terbaru di https://www.python.org/downloads/windows/
+kalau menggunakan linux : sudo apt-get update, sudo apt-get install python3

@@ -102,3 +102,4 @@ class FaceRecognition:
 if __name__ == "__main__":
     fr = FaceRecognition()
     fr.encode_faces()
+    fr.run_recognition()
